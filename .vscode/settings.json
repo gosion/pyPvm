@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/gosion/.local/share/virtualenvs/pvm-5McJkVVg/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.linting.mypyEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "python.formatting.blackArgs": ["--line-length", "79"]
+}
